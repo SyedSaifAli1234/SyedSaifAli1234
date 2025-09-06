@@ -4,7 +4,7 @@ Hi 👋 My name is Saif Ali
 Senior Software Developer
 -------------------------
 
-4 years of experience building exciting web applications in React, JavaScript, Java, and Node.js. Proficient in Agile methodologies. Led fintech application development, conducted code reviews, and Top-rated freelancer on Upwork.
+5 years of experience building exciting web applications in React, JavaScript, Java, and Node.js. Proficient in Agile methodologies. Led fintech application development, conducted code reviews, and Top-rated freelancer on Upwork.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [this link](http://syedsaifali1234.github.io/Portfolio2.0/)
