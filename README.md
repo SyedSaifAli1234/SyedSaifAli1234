@@ -4,9 +4,9 @@ Hi 👋 My name is Saif Ali
 Senior Software Developer
 -------------------------
 
-5 years of experience building exciting web applications in React, JavaScript, Java, and Node.js. Proficient in Agile methodologies. Led AI Voice Agent development, worked extensively on fintech applications, conducted code reviews, and also a Top-rated freelancer on Upwork.
+6 years of experience building exciting web applications in React, JavaScript, Java, and Node.js. Proficient in Agile methodologies. Led AI Voice Agent development, worked extensively on fintech applications, conducted code reviews, and also a Top-rated freelancer on Upwork.
 
-* 🌍  I'm based in Pakistan
+* 🌍  I'm based in Austria
 * 🖥️  See my portfolio at [this link](http://syedsaifali1234.github.io/Portfolio2.0/)
 * ✉️  You can contact me at [saif.ali1000@gmail.com](mailto:saif.ali1000@gmail.com)
 * 🚀  I'm currently working on [Creating a AI powered ChatBot for Fintech applications](http://apis.i2cinc.com/apis/home)
